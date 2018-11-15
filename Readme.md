@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[CustomShowNavigationItemController.cs](./CS/HideNavigationItemsExample.Module/Controllers/CustomShowNavigationItemController.cs) (VB: [CustomShowNavigationItemController.vb](./VB/HideNavigationItemsExample.Module/Controllers/CustomShowNavigationItemController.vb))**
+* [CustomSecurityRole.cs](./CS/HideNavigationItemsExample.Module/Security/CustomSecurityRole.cs) (VB: [CustomSecurityRole.vb](./VB/HideNavigationItemsExample.Module/Security/CustomSecurityRole.vb))
+* [NavigationItemPermission.cs](./CS/HideNavigationItemsExample.Module/Security/NavigationItemPermission.cs) (VB: [NavigationItemPermission.vb](./VB/HideNavigationItemsExample.Module/Security/NavigationItemPermission.vb))
+* [Global.asax.cs](./CS/HideNavigationItemsExample.Web/Global.asax.cs) (VB: [Global.asax.vb](./VB/HideNavigationItemsExample.Web/Global.asax.vb))
+* [Program.cs](./CS/HideNavigationItemsExample.Win/Program.cs) (VB: [Program.vb](./VB/HideNavigationItemsExample.Win/Program.vb))
+<!-- default file list end -->
 # How to hide navigation items based on the current user
 
 
